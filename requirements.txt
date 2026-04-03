@@ -1,0 +1,24 @@
+# Core Flask
+Flask==3.0.0
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# Web requests & scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Data & utilities
+wikipedia==1.4.0
+textblob==0.17.1
+psutil==5.9.6
+Pillow==10.1.0
+
+# Enhanced features
+qrcode==7.4.2
+yfinance==0.2.32
+geocoder==1.38.1
+pyshorteners==1.0.1
+PyDictionary==2.0.1
+
+# NOTE: Excluded from cloud (need desktop/audio hardware):
+# pyttsx3, SpeechRecognition, PyAudio, pyautogui, selenium
