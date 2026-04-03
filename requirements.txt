@@ -11,7 +11,7 @@ beautifulsoup4==4.12.2
 wikipedia==1.4.0
 textblob==0.17.1
 psutil==5.9.6
-Pillow==10.1.0
+Pillow==10.4.0
 
 # Enhanced features
 qrcode==7.4.2
